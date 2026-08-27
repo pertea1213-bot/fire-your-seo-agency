@@ -1,7 +1,7 @@
 {
   "name": "fire-your-seo-agency",
   "description": "Fire your SEO agency — a Claude Code skill that audits and implements SEO·AEO·GEO·LLMO·NEO(Naver) itself.",
-  "owner": { "name": "leopard627" },
+  "owner": { "name": "pertea1213-bot" },
   "plugins": [
     {
       "name": "fire-your-seo-agency",

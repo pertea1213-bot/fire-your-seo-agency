@@ -43,7 +43,7 @@
 플러그인으로 (권장 — 한 줄 설치, 업데이트 쉬움):
 
 ```
-/plugin marketplace add leopard627/fire-your-seo-agency
+/plugin marketplace add pertea1213-bot/fire-your-seo-agency
 /plugin install fire-your-seo-agency@fire-your-seo-agency
 ```
 
@@ -51,10 +51,10 @@
 
 ```bash
 # 프로젝트 스킬로 (해당 프로젝트에서만)
-git clone https://github.com/leopard627/fire-your-seo-agency.git .claude/skills/fire-your-seo-agency
+git clone https://github.com/pertea1213-bot/fire-your-seo-agency.git .claude/skills/fire-your-seo-agency
 
 # 또는 개인 스킬로 (모든 프로젝트에서)
-git clone https://github.com/leopard627/fire-your-seo-agency.git ~/.claude/skills/fire-your-seo-agency
+git clone https://github.com/pertea1213-bot/fire-your-seo-agency.git ~/.claude/skills/fire-your-seo-agency
 ```
 
 그리고 Claude Code에서:
