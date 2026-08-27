@@ -45,7 +45,7 @@ but if you serve the Korean market, half your traffic lives there.
 As a plugin (recommended — one command, easy updates):
 
 ```
-/plugin marketplace add leopard627/fire-your-seo-agency
+/plugin marketplace add pertea1213-bot/fire-your-seo-agency
 /plugin install fire-your-seo-agency@fire-your-seo-agency
 ```
 
@@ -53,10 +53,10 @@ Or via git clone:
 
 ```bash
 # As a project skill (this project only)
-git clone https://github.com/leopard627/fire-your-seo-agency.git .claude/skills/fire-your-seo-agency
+git clone https://github.com/pertea1213-bot/fire-your-seo-agency.git .claude/skills/fire-your-seo-agency
 
 # Or as a personal skill (every project)
-git clone https://github.com/leopard627/fire-your-seo-agency.git ~/.claude/skills/fire-your-seo-agency
+git clone https://github.com/pertea1213-bot/fire-your-seo-agency.git ~/.claude/skills/fire-your-seo-agency
 ```
 
 Then in Claude Code:
